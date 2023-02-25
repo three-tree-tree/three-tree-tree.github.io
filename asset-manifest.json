@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a89cd8e7.css",
-    "main.js": "/static/js/main.6aa12d1a.js",
+    "main.css": "/static/css/main.67e7d5f6.css",
+    "main.js": "/static/js/main.f65fe39d.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/bg-image.png": "/static/media/bg-image.69c3cd9ff66978967b7b.png",
     "static/media/app_main.svg": "/static/media/app_main.6203b54c8dcc3a6a8ad7cbe2cce30f6f.svg",
@@ -23,18 +23,17 @@
     "static/media/save-energy-disabled.svg": "/static/media/save-energy-disabled.db601b6754022c550603030178ebb43b.svg",
     "static/media/save-paper-disabled.svg": "/static/media/save-paper-disabled.4fa6cdb174f4e26b5d42ffcbcf04ec28.svg",
     "static/media/instagram-button.svg": "/static/media/instagram-button.89ec1a9e35d19948e563244b2c5abf94.svg",
+    "static/media/feed-button.svg": "/static/media/feed-button.b09b67ef0dd1c82db9268ed165069912.svg",
     "static/media/logo.svg": "/static/media/logo.5c42d60ef3c8542fa113326cfc369e0f.svg",
     "static/media/start-join.svg": "/static/media/start-join.ee679a23d9a857abfb7494ff80fb45be.svg",
-    "static/media/save-image-button.svg": "/static/media/save-image-button.f5b086d64a9c240c64011ef2efc22fb7.svg",
-    "static/media/kakao-talk-button.svg": "/static/media/kakao-talk-button.ed101b8e24a2c62893422de32eaddfc9.svg",
     "index.html": "/index.html",
     "static/media/left-arrow.svg": "/static/media/left-arrow.72e072d2266594e8eb57c6cef1b5a376.svg",
-    "main.a89cd8e7.css.map": "/static/css/main.a89cd8e7.css.map",
-    "main.6aa12d1a.js.map": "/static/js/main.6aa12d1a.js.map",
+    "main.67e7d5f6.css.map": "/static/css/main.67e7d5f6.css.map",
+    "main.f65fe39d.js.map": "/static/js/main.f65fe39d.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a89cd8e7.css",
-    "static/js/main.6aa12d1a.js"
+    "static/css/main.67e7d5f6.css",
+    "static/js/main.f65fe39d.js"
   ]
 }
